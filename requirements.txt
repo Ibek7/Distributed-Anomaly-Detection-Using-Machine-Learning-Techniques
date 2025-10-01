@@ -1,0 +1,13 @@
+# Requirements for Distributed Anomaly Detection Using Machine Learning Techniques
+
+# Core dependencies
+pyclustering>=0.10.1
+scipy>=1.9.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Optional development dependencies (uncomment for development)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# flake8>=5.0.0
+# black>=22.0.0
